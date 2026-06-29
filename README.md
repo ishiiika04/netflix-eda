@@ -73,6 +73,35 @@ The project includes multiple visualizations covering:
 * Release Trends
 * Year-wise Content Growth
 
+## 📸 Sample Visualizations
+
+### 📺 Content Type Distribution
+
+![Content Type](01_content_type.png)
+
+---
+
+### 🌍 Top Content Producing Countries
+
+![Top Countries](04_top_countries.png)
+
+---
+
+### 🎭 Top Genres
+
+![Top Genres](06_top_genres.png)
+
+---
+
+### ⭐ Content Ratings Distribution
+
+![Ratings](05_ratings.png)
+
+---
+
+### 📈 Content Growth Over Time
+
+![Content Per Year](02_content_per_year.png)
 ---
 
 ## ▶️ Getting Started
