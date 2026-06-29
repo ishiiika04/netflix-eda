@@ -31,17 +31,6 @@ This analysis aims to answer questions such as:
 
 ---
 
-## 📂 Repository Structure
-
-```
-netflix-eda/
-│── data/
-│── outputs/
-│── netflix_eda.ipynb
-│── netflix_eda.py
-│── requirements.txt
-│── README.md
-```
 ---
 ## 📈 Project Highlights
 
